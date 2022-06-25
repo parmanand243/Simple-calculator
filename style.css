@@ -1,0 +1,31 @@
+body{
+  background-image:url('../pic/kakashi.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+  
+}
+.calculator{
+    margin-left:50%;
+    width: 300px;
+    
+    background: gray;
+
+}
+input[type=text]
+{
+    width: 90%;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 4px;
+    border-radius: 5px;
+
+}
+input[type=button]
+{
+    width: 65px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-left: 2px;
+}
